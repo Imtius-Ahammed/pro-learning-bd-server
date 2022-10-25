@@ -6,46 +6,44 @@
     "category_id": "01",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 488,
-    "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    "details": ""
+    "title": " Responsive Web Design (freeCodeCamp)",
+    "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cmVzcG9uc2l2ZSUyMGNvZGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "details": "Almost every new client these days wants a mobile version of their website. It’s practically essential after all: one design for the BlackBerry, another for the iPhone, the iPad, netbook, Kindle — and all screen resolutions must be compatible, too. In the next five years, we’ll likely need to design for a number of additional inventions. When will the madness stop? It won’t, of course. In the field of Web design and development, we’re quickly getting to the point of being unable to keep up with the endless new resolutions and devices. For many websites, creating a website version for each resolution and new device would be impossible, or at least impractical. Should we just suffer the consequences of losing visitors from one device, for the benefit of gaining visitors from another? Or is there another option?  Responsive Web design is the approach that suggests that design and development should respond to the user’s behavior and environment based on screen size, platform and orientation. The practice consists of a mix of flexible grids and layouts, images and an intelligent use of CSS media queries. As the user switches from their laptop to iPad, the website should automatically switch to accommodate for resolution, image size and scripting abilities. One may also have to consider the settings on their devices; if they have a VPN for iOS on their iPad, for example, the website should not block the user’s access to the page. In other words, the website should have the technology to automatically respond to the user’s preferences. This would eliminate the need for a different design and development phase for each new gadget on the market."
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
  
-    "category_id": "03",
+    "category_id": "01",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 488,
-    "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+    "title": "Full-Stack Web Development with React",
  
    
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "details": "What You’ll Learn You’ll begin the course with an introduction to front-end JavaScript frameworks and libraries. You’ll be introduced to React and its components, followed by the different types of components and single-page applications of React router.Then you’ll move on to controlled and uncontrolled forms, and understand form validation in React applications. You’ll take a look at the Flux architecture pattern and understand how Redux helps realizing it.You’ll dive deeper into Redux by learning about Redux action, combining reducers, and Redux thunk. The course also teaches you about client-server communication using Fetch and the REST API.Then you’ll learn how you can apply animations to your application using React. And finally, you’ll end the course by testing, building, and deploying your React applications."
   },
 
   {
     "_id": "f69a695f037cd9484cecaea37ca71011",
   
-    "category_id": "01",
+    "category_id": "02",
     "rating": { "number": 4.8, "badge": "Excellent" },
     "total_view": 400,
-    "title": "Tucker Carlson Swears Vladimir Putin Is Winning The War In Ukraine",
+    "title": "Web development Course Outline 2022",
  
-    "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-    "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-    "details": ""
+    "image_url": "https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "details": "This course is designed to start you on a path toward future studies in web development and design, no matter how little experience or technical knowledge you currently have. The web is a very big place, and if you are the typical internet user, you probably visit several websites every day, whether for business, entertainment or education. But have you ever wondered how these websites actually work? How are they built? How do browsers, computers, and mobile devices interact with the web? What skills are necessary to build a website? With almost 1 billion websites now on the internet, the answers to these questions could be your first step toward a better understanding of the internet and developing a new set of internet skills. By the end of this course you’ll be able to describe the structure and functionality of the world wide web, create dynamic web pages using a combination of HTML, CSS, and JavaScript, apply essential programming language concepts when creating HTML forms, select an appropriate web hosting service, and publish your webpages for the world to see. Finally, you’ll be able to develop a working model for creating your own personal or business websites in the future and be fully prepared to take the next step in a more advanced web development or design course or specialization."
   },
   {
     "_id": "f69a695f037cd9484cecaea37ca71012",
   
-    "category_id": "02",
+    "category_id": "03",
     "rating": { "number": 4.3, "badge": "Excellent" },
     "total_view": 400,
-    "title": "Tucker Carlson Swears Vladimir Putin Is Winning The War In Ukraine",
+    "title": "Document Object Model or the DOM",
  
-    "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-    "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-    "details": ""
+    "image_url": "https://i.ytimg.com/vi/XYzSyPlY7_E/maxresdefault.jpg",
+    "details": "Why Was The Document Object Model (DOM) Needed?During the early years of the internet, there was a browser was between Netscape Navigator 4 and Internet Explorer 4. Both the browsers followed a different version of Dynamic HTML (DHTML) thus proving it difficult to run the same HTML code on different browsers. With increasing fears of the web losing its cross-platform nature a new independent body called the World Wide Web Consortium (W3C) was created. It was the responsibility of W3C to maintain the standards of web communication and that when it started working on the DOM. It is because of the DOM that JavaScript gets the ability to create dynamic HTML and a developer can manipulate the various nodes of a document. There are various methods provided by the DOM as a programming interface that lets you alter the HTML document the way you would want to as a developer"
   },
 
   {
@@ -54,34 +52,35 @@
     "category_id": "03",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 980,
-    "title": "Joe Biden announces $3 billion in Ukraine weapons aid",
+    "title": "Browser Object Model or the BOM",
 
-    "image_url": ""
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGYa1fJOuJ-ZKwiNVWf00tyTpf_RLKDx83IQ&usqp=CAU",
+    "details":"Just like the DOM is an interface to interact with the document the Browser Object Model is the interface to interact with the browser outside the context of the document itself. The BOM was considered to be quite problematic due to it being the only part of JavaScript which had no standard governing it. However, with the launch of HTML5, most of the features related to BOM became apart of the official standard of HTML5, which led to a massive reduction in the confusion surrounding the BOM. The BOM can be accessed using the window object which represents the browser window. All the global variables are a part of the window object in the browsers. Let’s have a look at how you can access the window object and its propertie"
   },
   {
     "_id": "11468ed61aee84de492a8b04158a22f0",
 
-    "category_id": "01",
+    "category_id": "03",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 980,
-    "title": "Joe Biden announces $3 billion in Ukraine weapons aid",
+    "title": "7 JavaScript Concepts That Every Web Developer Should Know",
 
    
-    "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-    "details": ""
+    "image_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201028214738/7-JavaScript-Concepts-That-Every-Developer-Must-Know.jpg",
+    "details": "JavaScript is Everywhere. Millions of web pages are built on JavaScript and it’s not going anywhere at least for now. On one side HTML and CSS give styling to the web pages but on the other side, it’s the magic of JavaScript that makes your web page alive. Today this language is not just limited to your web browser. You can also use it for server-side applications. Isn’t it cool to use a single language for both client-side and server-side applications? A single language fulfills both of the purposes and this is the main reason TON of job posting is there for javascript developers in the tech industry. According to Stack Overflow Developer Survey 2019, JavaScript is the #1 programming language. The language is widely used by 95% of all the websites Whether it’s a small startup or a big company, most of them are working on some kind of website or an app that requires a good knowledge of this language. A lot of frameworks and libraries are there for javascript. These frameworks and libraries can be easily learned if your javascript fundamentals are clear. A lot of concepts are confusing and overwhelming for developers but a good knowledge of these concepts will help you in the long run. Frameworks and libraries come and go but the fundamentals always remain the same. It’s easy to build any kind of application and learn any framework and libraries if the fundamentals are clear. Also, it will help you in interviews as well. Let’s discuss some of the basic concepts of javascript which are important to learn for any JavaScript developer. Become a good front-end developer with Geeksforgeeks JavaScript Foundation – Self Paced and learn all the aspects of web development with ease. "
   },
 
   {
     "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
  
-    "category_id": "02",
+    "category_id": "03",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": null,
-    "title": "Tucker Carlson: Putin Winning in Ukraine, Biden Hurting West",
+    "title": "What is an IIFE in JavaScript?",
 
   
-    "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-    "details": ""
+    "image_url": "https://miro.medium.com/max/1200/1*If_wKnqD6lqWRY5qFZvNdg.png",
+    "details": "IIFE (Immediately Invoked Function Expression) is a JavaScript function that runs as soon as it is defined.Your first encounter may seem quite confusing but actually, the pattern is simple. The pattern is immediately invoked function expression.JavaScript functions can be created either through a function declaration or a function expression. A function declaration is the “normal” way of creating a named function.A function created in the context of an expression is also a function expression. The key thing about JavaScript expressions is that they return values. In both cases above the return value of the expression is the function.That means that if we want to invoke the function expression right away we just need to tackle a couple of parentheses on the end. Which brings us back to the first bit of code we looked"
   },
 
   {
@@ -90,10 +89,10 @@
     "category_id": "03",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 111,
-    "title": "America Imported Over $6 Billion in Goods From Russia Since Ukraine Invasion",
+    "title": "Learn more about js Scope",
    
-    "image_url": "https://i.ibb.co/xh57pkr/unsplash-Eh-Tc-C9s-YXsw-1.png",
-    "details": ""
+    "image_url": "https://soshace.com/wp-content/uploads/2019/11/Scope-in-JS-Facebook.jpg",
+    "details": "Arguably one of the harder concepts to grasp for a new developer is scope and is an important concept to understand. There are two main types of scope, global and local. When a variable is declared outside of any function it is considered global and can be accessed virtually anywhere within your code. A variable that is declared within a function is considered local and can only be accessed within that function. This is scope at its very basic and can quickly become far more complex, but understanding these concepts as early as possible will help build a solid foundation for you to build from on your road to becoming a web developer."
   },
 
   {
@@ -123,7 +122,7 @@
   {
     "_id": "f06f8cc035b04bd1158e4198281915a3",
 
-    "category_id": "05",
+    "category_id": "04",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 127,
     "title": "9 Things to do in Colorado this Labor Day weekend",
@@ -137,7 +136,7 @@
       "is_todays_pick": false,
       "is_trending": true
     },
-    "category_id": "05",
+    "category_id": "04",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 127,
     "title": "Up Late with Ben Harvey: Why Troy Mercanti needs to start an OnlyFans account",
@@ -149,7 +148,7 @@
   {
     "_id": "cd2b53655737cc4077542baea9f8f75d",
   
-    "category_id": "02",
+    "category_id": "05",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 700,
     "title": "Halo, GTA Vice City Actor Directing Movie About Hunter Biden",
@@ -160,7 +159,7 @@
   {
     "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
    
-    "category_id": "07",
+    "category_id": "05",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 300,
     "title": "Joe Biden announces $3B in new military aid to Ukraine",
@@ -171,7 +170,7 @@
   {
     "_id": "7c4dfea0fafddc813673282a428429b7",
  
-    "category_id": "01",
+    "category_id": "05",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 0,
     "title": "Biden announces $3 billion Ukraine military aid package on its Independence Day",
@@ -182,7 +181,7 @@
   {
     "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
  
-    "category_id": "01",
+    "category_id": "05",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 320,
     "title": "U.S. announces largest weapons package for Ukraine",
@@ -193,7 +192,7 @@
   {
     "_id": "df11ff9feefc37613cc3a4486ce02151",
  
-    "category_id": "02",
+    "category_id": "06",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 552,
     "title": "US commander to train Ukraine military",
@@ -204,7 +203,7 @@
   {
     "_id": "919db97c34e0778b387dd40cdfa08130",
   
-    "category_id": "01",
+    "category_id": "06",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 89,
     "title": "U.S. concerned about India's participation in Russia military exercises",
@@ -215,7 +214,7 @@
   {
     "_id": "374df11ae3d9b8b9ce21f4dc53f59b85",
  
-    "category_id": "01",
+    "category_id": "06",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 798,
     "title": "Zelensky says he had ‘great conversation' with Biden, discussed Kiev's further steps",
@@ -226,7 +225,7 @@
   {
     "_id": "acb9b6785b62698fc6130db7615965e1",
 
-    "category_id": "03",
+    "category_id": "06",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 879,
     "title": "US Pledges $3 Bln In Additional Security Assistance For Ukraine",
@@ -237,7 +236,7 @@
   {
     "_id": "be44c843d61859cc0b87cae85c55f9db",
  
-    "category_id": "01",
+    "category_id": "06",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 231,
     "title": "US to name military mission in Ukraine and appoint commander – WSJ",
