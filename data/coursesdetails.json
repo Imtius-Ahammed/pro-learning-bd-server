@@ -101,10 +101,10 @@
     "category_id": "04",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 733,
-    "title": "Shaquille O’Neal auctions a 1000 size 22 Reeboks for $999.32 each!",
+    "title": "Why JSX?",
    
-    "image_url": "https://i.ibb.co/WNrB5d7/unsplash-Eh-Tc-C9s-YXsw-9.png",
-    "details": ""
+    "image_url": "https://miro.medium.com/max/1400/1*wQxgEiVsgG0o7ti45WuFTQ.png",
+    "details": "React embraces the fact that rendering logic is inherently coupled with other UI logic: how events are handled, how the state changes over time, and how the data is prepared for display.Instead of artificially separating technologies by putting markup and logic in separate files, React separates concerns with loosely coupled units called “components” that contain both. We will come back to components in a further section, but if you’re not yet comfortable putting markup in JS, this talk might convince you otherwise. React doesn’t require using JSX, but most people find it helpful as a visual aid when working with UI inside the JavaScript code. It also allows React to show more useful error and warning messages. With that out of the way, let’s get started! "
   },
   {
     "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
@@ -112,11 +112,11 @@
     "category_id": "04",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 733,
-    "title": "George Russell wears $110 Daniel Ricciardo merchandise to Zandvoort paddock ahead of Dutch GP",
+    "title": "ReactJS | Rendering Elements",
 
     
-    "image_url": "https://i.ibb.co/Z2JjRnF/unsplash-Eh-Tc-C9s-YXsw-2.png",
-    "details": ""
+    "image_url": "https://magecomp.com/blog/wp-content/uploads/2022/09/Rendering-Elements-in-ReactJS-1024x512.png",
+    "details": "In the previous article on introduction to JSX, we got to see how to create a React element. React element is the smallest renderable unit available in React. We can render such elements using the ReactDOM as described in the previous article. React elements are different from DOM elements as React elements are simple javascript objects and are efficient to create. React elements are the building blocks of any React app and should not be confused with React components which will be discussed in further articles. Rendering an Element in React: In order to render any element into the Browser DOM, we need to have a container or root DOM element. It is almost a convention to have a div element with the id=”root” or id=”app” to be used as the root DOM element. Let’s suppose our index.html file has the following statement inside it."
   },
 
   {
@@ -125,10 +125,10 @@
     "category_id": "04",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 127,
-    "title": "9 Things to do in Colorado this Labor Day weekend",
+    "title": "ReactJS Components",
     
-    "image_url": "https://i.ibb.co/H4p2t3V/unsplash-Eh-Tc-C9s-YXsw-6.png",
-    "details": ""
+    "image_url": "https://media.geeksforgeeks.org/wp-content/uploads/imageedit_12_8490096226.jpg",
+    "details": "A Component is one of the core building blocks of React. In other words, we can say that every application you will develop in React will be made up of pieces called components. Components make the task of building UIs much easier. You can see a UI broken down into multiple individual pieces called components and work on them independently and merge them all in a parent component which will be your final UI. You can see in the below image we have broken down the UI of GeeksforGeeks’s homepage into individual components. Google’s custom search at the top can be seen as an individual component, the navigation bar can be seen as an individual component, the sidebar is an individual component, the list of articles or post is also an individual component and finally, we can merge all of these individual components to make a parent component which will be the final UI for the homepage.Components in React basically return a piece of JSX code that tells what should be rendered on the screen. In React, we mainly have two types of components: "
   },
   {
     "_id": "f06f8cc035b04bd1158e4198281915a4",
@@ -139,10 +139,10 @@
     "category_id": "04",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 127,
-    "title": "Up Late with Ben Harvey: Why Troy Mercanti needs to start an OnlyFans account",
+    "title": "React Top-Level API",
    
-    "image_url": "https://i.ibb.co/vz5K0FB/unsplash-Eh-Tc-C9s-YXsw-10.png",
-    "details": ""
+    "image_url": "https://mechomotive.com/wp-content/uploads/2021/08/react.jpg",
+    "details": "React is the entry point to the React library. If you load React from a <script> tag, these top-level APIs are available on the React global. If you use ES6 with npm, you can write import React from 'react'. If you use ES5 with npm, you can write var React = require('react'). During server side rendering Suspense Boundaries allow you to flush your application in smaller chunks by suspending.When a component suspends we schedule a low priority task to render the closest Suspense boundary’s fallback. If the component unsuspends before we flush the fallback then we send down the actual content and throw away the fallback."
   },
 
   {
@@ -151,10 +151,10 @@
     "category_id": "05",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 700,
-    "title": "Halo, GTA Vice City Actor Directing Movie About Hunter Biden",
+    "title": "Using Tailwind CSS to Accelerate Your Coding",
    
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    "details": ""
+    "image_url": "https://i.ytimg.com/vi/lZp4salRFFc/maxresdefault.jpg",
+    "details": "Tailwind CSS makes it quicker to write and maintain the code of your application. By using this utility-first framework, you don’t have to write custom CSS to style your application. Instead, you can use utility classes to control the padding, margin, color, font, shadow, and more of your application.There may be a learning curve to familiarize yourself with these utility classes, but once you do, you’ll be able to create and maintain applications faster than ever before."
   },
   {
     "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
@@ -162,10 +162,10 @@
     "category_id": "05",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 300,
-    "title": "Joe Biden announces $3B in new military aid to Ukraine",
+    "title": "Why we should use Taildwind CSS?",
     
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    "details": ""
+    "image_url": "https://web-crunch.s3.amazonaws.com/uploads/post/feature_image/334/tailwind-css-button-components.jpg",
+    "details": "Now you might be wondering why use Tailwind over other CSS frameworks? Tailwind CSS is a low-level framework. Meaning, unlike other CSS frameworks like Bootstrap and Materialize, Tailwind doesn’t offer fully styled components like buttons, dropdowns, and navbars. Instead, it offers utility classes so you can create your own reusable components. For that reason, it provides a lot more flexibility and control over what your application looks like than other CSS frameworks. This can enable you to create a more unique site. To learn more about what Tailwind CSS is, what benefits it offers, and why you should use it, check out this video"
   },
   {
     "_id": "7c4dfea0fafddc813673282a428429b7",
@@ -173,10 +173,10 @@
     "category_id": "05",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 0,
-    "title": "Biden announces $3 billion Ukraine military aid package on its Independence Day",
+    "title": "Learn Tailwind CSS - A Beginner's Guide",
    
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    "details": ""
+    "image_url": "https://i.ytimg.com/vi/ApPEK_6KM60/maxresdefault.jpg",
+    "details": "This is a beginner-friendly guide to using Tailwind CSS, a relatively new but immensely popular and likely game-changing CSS framework. Tailwind adopts a utility-first approach which makes it easy to customize and even easier to maintain as a project’s CSS grows in size.CSS itself is difficult to manage in large projects and this is further exacerbated by traditional CSS frameworks, like Bootstrap, Foundation, and others which come with a long library of predefined components for common items like buttons, nav bars, footers, and so on. In short, CSS quickly becomes a mess: hard to write, hard to reason about, and even harder to update.Tailwind solves many of these challenges by taking a lower-level approach: providing CSS helper classes that can be used to create and customize any design. It’s best to see this in action though by giving Tailwind a spin yourself.Unfortunately, installing Tailwind CSS can be quite challenging as the official guide makes clear. While you might need all the bells and whistles for a full-fledged project, most of Tailwind can be used via a CDN and a single HTML file. This guide starts off showing how to use the CDN approach, then moves on to the full Node and everything else option after that."
   },
   {
     "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
@@ -184,10 +184,10 @@
     "category_id": "05",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 320,
-    "title": "U.S. announces largest weapons package for Ukraine",
+    "title": "SASS vs CSS-in-JS vs TailwindCSS",
    
-    "image_url": "https://i.ibb.co/PxC67LV/unsplash-Eh-Tc-C9s-YXsw-1.png",
-    "details": ""
+    "image_url": "https://api.zonacoding.com/storage/allphotos/9NKxgNPeRDW0tjdQl6My2BMwR2rZzjlA8xO5Ezfn.jpeg",
+    "details": "There are many ways to manage the styling of your application. In the beginning, this is easy, but when your projects start to grow you will encounter difficulties. Using a traditional approach to CSS is not a wrong decision, but nowadays there are other options you could consider. Personally, I like CSS-in-JS a lot and as a JavaScript developer, it makes sense to me to go with this approach.On the other hand, I’ve been working a lot with TailwindCSS lately and I don’t think I’ve ever been that excited about a CSS framework. I made some projects, like RemoteRocket.io, with TailwindCSS and I’ve noticed a huge boost in productivity while working on it. Although it requires some time to learn all the utility classes, you barely need to write any CSS anymore once you master those. And not needing to switch files while styling your HTML elements feels like a blessing.With all that in mind, I’ve made my stack choice: TailwindCSS. If you think differently, please try to change my mind! Any other opinions? Leave them in the comments."
   },
   {
     "_id": "df11ff9feefc37613cc3a4486ce02151",
