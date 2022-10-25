@@ -195,10 +195,10 @@
     "category_id": "06",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 552,
-    "title": "US commander to train Ukraine military",
+    "title": "What is Bootstrap used for?",
     
-    "image_url": "https://i.ibb.co/vz5K0FB/unsplash-Eh-Tc-C9s-YXsw-10.png",
-    "details": ""
+    "image_url": "https://i.ytimg.com/vi/I7CfaDYzTVM/maxresdefault.jpg",
+    "details": "What is Bootstrap used for?Bootstrap makes responsive web design a reality. It makes it possible for a web page or app to detect the visitor's screen size and orientation and automatically adapt the display accordingly. The mobile-first approach assumes smartphones, tabletsand task-specific mobile apps are employees' primary tools for getting work done. Bootstrap addresses the requirements of those technologies in design and includes UI components, layouts, JavaScript tools and the implementation framework. The software is available precompiled or as source code.Mark Otto and Jacob Thornton developed Bootstrap at Twitter to improve the consistency of tools used on the site and to reduce maintenance. The software was formerly known as Twitter Blueprint and is sometimes referred to as Twitter Bootstrap."
   },
   {
     "_id": "919db97c34e0778b387dd40cdfa08130",
@@ -206,10 +206,10 @@
     "category_id": "06",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 89,
-    "title": "U.S. concerned about India's participation in Russia military exercises",
+    "title": "Why is Bootstrap called as a framework instead of library or toolkit?",
    
-    "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-    "details": ""
+    "image_url": "https://bs-uploads.toptal.io/blackfish-uploads/uploaded_file/file/194523/image-1582754405203-acf85cc241bac1caa6b2cd3a460024f8.png",
+    "details": "Honestly, it really doesn’t matter, but for discussion’s sake, it ultimately comes down to how you define the terms “Framework” and “Library”. Personally, I think the cleanest way to define the difference between the terms is that libraries are a bundle of helper utilities that abstract away much of the boilerplate that you’d have to put in just to get something to work. Frameworks tend to provide this as well (usually a lot more), but also restrict you to it’s design pattern, without which, it might not work properly (hence the term “framework”).If you go with these definitions, then whether you call Bootstrap a library or framework depends on what functionality in Bootstrap you are referring to. Personally, I think, for the most part, Bootstrap is mostly just a library of helper utilities. You can even download particular portions of these utilities, while ignoring the others. Frameworks tend to not allow this, as the entire tool is meant to come together in one large monolithic piece. You usually can’t break up frameworks into modular tools that you can select from. This is why Bootstrap doesn’t seem to come across as a framework to me."
   },
   {
     "_id": "374df11ae3d9b8b9ce21f4dc53f59b85",
@@ -217,10 +217,10 @@
     "category_id": "06",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 798,
-    "title": "Zelensky says he had ‘great conversation' with Biden, discussed Kiev's further steps",
+    "title": "What is Bootstrap Responsive & How to Use It",
     
-    "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-    "details": ""
+    "image_url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Bootstrap_Responsive.jpg",
+    "details": "we discussed the various benefits of using Bootstrap responsive and saw how it performs and how we can create a Responsive Layout with Bootstrap through several examples. This article will be helpful to professional developers from UI/UX designers from the .net backgrounds, application architectures, cloud specialists, testers, and other learners looking for various uses of HTML5 and different Bootstrap CSS. If you wish to learn more about such concepts, you can check out the Full-Stack Web Development Certification Course offered by Simplilearn and become a full-stack technologist.Besides pursuing varied courses by Simplilearn, you can also sign up on our SkillUp platform, a Simplilearn initiative, and improve your career prospects. This platform offers many free online courses to help with the basics of multiple programming languages, including HTML and Bootstrap responsive CSS. "
   },
   {
     "_id": "acb9b6785b62698fc6130db7615965e1",
@@ -228,10 +228,10 @@
     "category_id": "06",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 879,
-    "title": "US Pledges $3 Bln In Additional Security Assistance For Ukraine",
+    "title": "Introduction to Bootstrap Form Layout",
    
-    "image_url": "https://i.ibb.co/PxC67LV/unsplash-Eh-Tc-C9s-YXsw-1.png",
-    "details": ""
+    "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2020/07/psd-9-1-2-1.jpg.webp",
+    "details": "The bootstrap form layout is an arrangement of user form on the web page using bootstrap. It is a design as per web application helping bootstrap classes. There are three types of form layout in bootstrap3 which are the vertical layout, horizontal layout, and inline layout. There are two types of form layout in bootstrap4 which are vertical layout (Stacked form) and inline layout. The label and bootstrap form attribute set in vertical order known as vertical bootstrap form layout or stacked form. The form label and their bootstrap attribute set in horizontal order known as horizontal form layout. The all form label and their bootstrap attribute set in a single line known as an inline form layout. This is used to make form elegant and attractive on the website."
   },
   {
     "_id": "be44c843d61859cc0b87cae85c55f9db",
@@ -239,10 +239,10 @@
     "category_id": "06",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 231,
-    "title": "US to name military mission in Ukraine and appoint commander – WSJ",
+    "title": "Advantages of Bootstrap CSS",
     
-    "image_url": "https://i.ibb.co/vz5K0FB/unsplash-Eh-Tc-C9s-YXsw-10.png",
-    "details": ""
+    "image_url": "https://honestlot.com/wp-content/uploads/2021/06/luca-bravo-217276-unsplash.jpg",
+    "details": "Bootstrap is the most popular free, and open-source framework for creating a responsive layout in web pages, with much less effort. It contains HTML, CSS, and JS components for creating forms, buttons, navigation, dropdown, modals, layout, and many other things, the list is very long indeed. You can create all these without much effort, which otherwise would require a lot of CSS, HTML, and JS code. If you are a web developer then Bootstrap is for you. Bootstrap includes user interface components, layouts, and JS tools along with the framework for implementation. The software is available precompiled or as source code."
   }
   
 ]
